@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+.logo{
+	height: 50px;
+	background-color:#F1F1F1;
+	color:#000000;
+
+}
+.menu {
+	height: 50px;
+	background-color:#F1F1F1;
+	color:#000000 ;
+	
+}
+.slider{
+	width: 100%;
+	height: 450px;
+	background-image:url(../../../Pictures/banner_31dd3b98dcd44e54b04517bbae1cd042.png)
+}
+.cot1 img{
+	height: 300px;
+	border: 1px #FFFFFF solid;
+	margin: 110px;
+	padding: auto;
+}
+.cot2 img{
+	height: 300px;
+	border: 1px #FFFFFF solid;
+	margin: 110px;
+	padding: auto;
+	
+}
+.cot3 img{
+	height: 300px;
+    border: 1px #FFFFFF solid;
+	margin: 110px;
+	padding: auto;
+	
+}
+.cot4 img{
+	height: 300px;
+    border: 1px #FFFFFF solid;
+	margin: 110px;
+	padding: auto;
+	
+}
